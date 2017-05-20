@@ -1,4 +1,4 @@
-Education Data Mining at the University of Houston
+Educational Data Mining at the University of Houston
 
 This repository is to guide all future members of the EDM group.
 
