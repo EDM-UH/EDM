@@ -1,6 +1,6 @@
 Educational Data Mining at the University of Houston
 
-This repository is to guide all future members of the EDM group.
+This repository is to guide all current members & future members of the EDM group.
 
 For Mac and Windows Users:
 	• Download the Github desktop application (https://desktop.github.com/)
