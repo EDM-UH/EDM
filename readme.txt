@@ -10,7 +10,7 @@ For Linux Users and Non-Desktop Application Users:
 	• https://www.howtoforge.com/tutorial/install-git-and-github-on-ubuntu-14.04/
 	• https://git-for-windows.github.io/
 
-Cloning the repository:
+Cloning the repository using Command Prompt:
 	• use the command "cd <directory you want the clone to be in>".
 	• to clone use "git clone https://github.com/EDM-UH/EDM.git".
 
