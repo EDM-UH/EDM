@@ -18,7 +18,7 @@ Advisor:
   Nouhad Rizk
   
 Contributors:
-  Tommy Hyunh
+  Tommy Huynh
   Jong Lee
   Israel Perez
   Yilei Tian
