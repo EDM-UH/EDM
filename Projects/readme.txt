@@ -1,2 +1,3 @@
 Projects:
-	� Early Warning System (EWS)
+	• Early Warning System (EWS)
+	• Regression Analysis
